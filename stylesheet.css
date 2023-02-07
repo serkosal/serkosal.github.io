@@ -1,0 +1,23 @@
+body {
+    background-color: black;;
+    color: whitesmoke;
+}
+
+main {
+    min-height: 100vh;
+}
+
+.carousel-item img, video {  
+    object-fit: contain;
+    object-position: center;
+    overflow: hidden;
+    height:100vh;
+}
+
+article {
+    min-height: 100vh;
+}
+
+header {
+    padding: 0px;
+}
